@@ -7,7 +7,7 @@
                     <div class="info-text">
                         <h6>Have a question? Call us now</h6>
                         <h4>+91 1234567890</h4>
-                    </div>
+                    </div>  
                 </div>
             </div>
             <div class="col-md-4">
