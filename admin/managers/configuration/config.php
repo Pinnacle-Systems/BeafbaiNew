@@ -1,7 +1,7 @@
 <?php
 
 // BASIC CONFIGURATIONS
-$host = "localhost";
+$host = "beafbai.com";
 $data_base = "BeafBai_db1";
 $uname = "root";
 $pass = "root";
